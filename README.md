@@ -22,8 +22,8 @@ The console will show any errors in your sketch.
 | File | Source |
 | ---- | ------ |
 
-| `assets/images/Background.jpg` [1]
-| `assets/images/character.png` [2]
+| `assets/images/Background.jpg`| Unsplash [1]
+| `assets/images/character.png` | PNGTree [2]
 
 ## References
 
