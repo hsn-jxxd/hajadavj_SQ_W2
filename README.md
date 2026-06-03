@@ -22,7 +22,7 @@ The console will show any errors in your sketch.
 | File | Source |
 | ---- | ------ |
 
-| `assets/images/Background.jpg` [1]| Unsplash |
+| `assets/images/Background.jpg` [1] | Unsplash |
 | `assets/images/character.png` [2] | PNGTree |
 
 ## References
