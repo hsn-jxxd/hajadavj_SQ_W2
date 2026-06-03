@@ -19,11 +19,10 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-| File | Source |
-| ---- | ------ |
-
+| File                               | Source   |
+| ---------------------------------- | -------- |
 | `assets/images/Background.jpg` [1] | Unsplash |
-| `assets/images/character.png` [2] | PNGTree |
+| `assets/images/character.png` [2]  | PNGTree  |
 
 ## References
 
